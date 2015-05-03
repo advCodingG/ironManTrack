@@ -15,5 +15,5 @@ public:
     ofxCv::ObjectFinder handFinder;
 	ofImage ironMan;
     ofImage ironManHand;
-    ofxAssimpModelLoader model;
+    //ofxAssimpModelLoader model;
    };
